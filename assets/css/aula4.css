@@ -17,6 +17,10 @@
   padding: 10px;
 }
 
+input {
+  width: 30vw;
+}
+
 button:hover {
   cursor: pointer;
 }
